@@ -25,6 +25,23 @@ Selenium WebDriver<br>
 <h3>Test Cases Location</h3>
 EcommerceDemoWeb_Testing/src/main/java/Swag_labs
 
+<h3>Known Issues</h3>
+
+Incorrect Behavior After Removing Items from Cart</<br>
+During testing, an issue was identified where, after removing an item from the cart, the "Continue" button still appears. Clicking this button allows the user to proceed through the checkout process, and the system incorrectly displays a "You ordered successfully" message, even though no items are present in the cart.
+
+Steps to Reproduce:<br>
+
+Add an item to the cart.<br>
+Remove the item from the cart.<br>
+Observe that the "Continue" button is still displayed.<br>
+Click "Continue" and proceed through the checkout process.<br>
+Note that the system displays a "You ordered successfully" message.<br>
+
+Expected Behavior:<br>
+
+After removing all items from the cart, the "Continue" button should not be displayed, and the user should not be able to proceed with the checkout process.<br>
+
 <h3>demo</h3>
 
 https://github.com/user-attachments/assets/fe79e4c5-152e-4193-9b50-4bc15271a6bc
