@@ -1,4 +1,4 @@
-<h2>E-Commerce Testing Project</h2>
+<h2>E-Commerce Web Testing Project</h2>
 
 <h3>Overview</h3>
 This project is dedicated to testing the key functionalities of an e-commerce platform. The focus is on ensuring that the platform performs reliably under various scenarios, with an emphasis on Quality Assurance (QA).
