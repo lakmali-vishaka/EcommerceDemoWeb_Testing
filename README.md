@@ -27,7 +27,7 @@ EcommerceDemoWeb_Testing/src/main/java/Swag_labs
 
 <h3>Known Issues</h3>
 
-Incorrect Behavior After Removing Items from Cart</<br>
+Incorrect Behavior After Removing Items from Cart<br>
 During testing, an issue was identified where, after removing an item from the cart, the "Continue" button still appears. Clicking this button allows the user to proceed through the checkout process, and the system incorrectly displays a "You ordered successfully" message, even though no items are present in the cart.
 
 Steps to Reproduce:<br>
