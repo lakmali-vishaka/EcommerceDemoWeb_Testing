@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-17T14:37:49 IST" name="Default suite" finished-at="2024-08-17T14:38:13 IST" duration-ms="23912">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T14:37:49 IST" name="Default test" finished-at="2024-08-17T14:38:13 IST" duration-ms="23912">
+      <class name="Swag_labs.Add_itemsToCart">
+        <test-method is-config="true" signature="oPenUrl()[pri:0, instance:Swag_labs.Add_itemsToCart@1a18644]" started-at="2024-08-17T14:37:49 IST" name="oPenUrl" finished-at="2024-08-17T14:38:04 IST" duration-ms="14689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oPenUrl -->
+        <test-method signature="TC_signIn()[pri:0, instance:Swag_labs.Add_itemsToCart@1a18644]" started-at="2024-08-17T14:38:04 IST" name="TC_signIn" finished-at="2024-08-17T14:38:13 IST" duration-ms="8926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_signIn -->
+      </class> <!-- Swag_labs.Add_itemsToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
