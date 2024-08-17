@@ -23,7 +23,7 @@ TestNG<br>
 Selenium WebDriver<br>
 
 <h3>Test Cases Location</h3>
-src/main/java/Swag_labs
+EcommerceDemoWeb_Testing/src/main/java/Swag_labs
 
 <h3>demo</h3>
 
